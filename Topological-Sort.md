@@ -36,3 +36,6 @@ void topologicalSort():
   for v in result:
      print(v);
 ```
+
+### 좋은 사이트
+<a href="https://velog.io/@kimdukbae/%EC%9C%84%EC%83%81-%EC%A0%95%EB%A0%AC-Topological-Sorting">바로가기</a>
